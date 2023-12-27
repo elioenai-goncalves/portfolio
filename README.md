@@ -14,4 +14,21 @@ E uma sessão de rodapé, aonde apresento novamente minhas redes sociais para qu
 O objetivo principal do meu projeto aqui é que amigos possam acessar meus conteúdos, me ajudarem, pedir ajuda também. Os meus professores possam analisar e avaliar os meus projetos e o principal, os recrutadores possam passear pelos os meus projetos e possam, quem sabe, propor alguma oferta de serviços. Afinal, estamos aqui pra aprender, ajudar e ser ajudado, seja por outros devs, quanto por amigos recrutadores.
 
 ### Um spoiler do projeto
+[<img src=src/imagens/spoiler-projeto-portfolio.gif alt="gif spoiler projeto portfolio">]
 
+### Tecnologias utilizadas
+- HTML5
+- CSS3
+
+### Como utilizar
+Ainda em aprendizado em Java e Rect.
+
+### Como clonar e abrir o projeto
+1 - Para clonar o projeto é digitar o comando no Git:
+```
+git clone <https://github.com/elioenai-goncalves/portfolio>
+```
+2 - Para abrir a pasta do projeto é só digitar no Git:
+```
+cd portfolio
+```
