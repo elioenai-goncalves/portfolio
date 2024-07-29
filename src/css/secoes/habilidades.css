@@ -1,4 +1,3 @@
-/* HABILIDADES */
 .habilidades .container-habilidades {    
     text-align: center;    
     display: flex;
@@ -8,12 +7,13 @@
 }
 
 .habilidades .container-habilidades .informacoes{
-    max-width: 350px;
+    max-width: auto;
     padding: 40px 20px;    
 }
 
 .habilidades .container-habilidades .informacoes p,
 .habilidades .container-habilidades .informacoes h3,
+.habilidades .container-habilidades .informacoes ul li,
 .habilidades .container-habilidades .informacoes .logo i{
     transition: all .3s ease;
     -moz-transition: all .3s ease;
@@ -23,8 +23,19 @@
 
 .habilidades .container-habilidades .informacoes:hover p,
 .habilidades .container-habilidades .informacoes:hover h3,
+.habilidades .container-habilidades .informacoes:hover ul,
 .habilidades .container-habilidades .informacoes:hover .logo i{
     color: var(--cor-primaria);
+    text-shadow: 2px 2px #000000;
+}
+
+.habilidades .container-habilidades .informacoes:hover p,
+.habilidades .container-habilidades .informacoes:hover ul {
+    font-size: 2.2rem;
+}
+
+.habilidades .container-habilidades .informacoes:hover h3 {
+    font-size: 4rem;
 }
 
 .habilidades .container-habilidades .informacoes h3 {
@@ -41,4 +52,12 @@
 
 .habilidades .container-habilidades .informacoes .logo i {
     font-size: 8rem;
+}
+
+.habilidades .container-habilidades .informacoes:hover .logo i {
+    font-size: 15rem;
+}
+
+.habilidades .container-habilidades .informacoes li {
+    list-style: inside;
 }

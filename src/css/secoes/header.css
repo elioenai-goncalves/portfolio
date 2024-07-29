@@ -110,12 +110,15 @@
     }
 }
 
-@media(max-width: 900px) {
+@media(max-width: 768px) {
+    body {
+        background-image: none;
+    }
+
     .header .menu {
         display: block; 
     }
 
-    /* pega todos os itens que após o input e que sao irmaos dele */
     .header nav input:checked ~ ul {
         display: block;
     }
