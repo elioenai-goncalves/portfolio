@@ -1,6 +1,6 @@
 # Portfólio DEV Elioenai Gonçalves
 ## Apresentação
-Olá! Meu nome é Elioenai Gonçalves, desenvolvedor FrontEnd. Gosto de aprender sobre programação todos os dias, cada dia mais, aonde estou sempre procurando conhecer uma linguagem ou tecnologia nova.
+Olá! Meu nome é Elioenai Gonçalves, desenvolvedor Full Stack. Gosto de aprender sobre programação todos os dias, cada dia mais, aonde estou sempre procurando conhecer uma linguagem ou tecnologia nova.
 Aqui está o meu projeto de portfólio particular, aonde conto tudo o que aprendi e estou aprendendo, dia a dia, na programação ❤
 ### Conteúdo do projeto
 Aqui veremos uma página portfólio minha, aonde passaremos pelo nosso cabeçalho da página, uma sessão principal (Home), aonde exponho minha apresentação e minhas redes sociais. 
