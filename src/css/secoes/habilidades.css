@@ -6,58 +6,58 @@
     flex-wrap: wrap;
 }
 
-.habilidades .container-habilidades .informacoes{
+.habilidades .container-habilidades .categoria-habilidades{
     max-width: auto;
     padding: 40px 20px;    
 }
 
-.habilidades .container-habilidades .informacoes p,
-.habilidades .container-habilidades .informacoes h3,
-.habilidades .container-habilidades .informacoes ul li,
-.habilidades .container-habilidades .informacoes .logo i{
+.habilidades .container-habilidades .categoria-habilidades p,
+.habilidades .container-habilidades .categoria-habilidades h3,
+.habilidades .container-habilidades .categoria-habilidades ul li,
+.habilidades .container-habilidades .categoria-habilidades .logos-categoria i{
     transition: all .3s ease;
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
     -webkit-transition: all .3s ease;
 }
 
-.habilidades .container-habilidades .informacoes:hover p,
-.habilidades .container-habilidades .informacoes:hover h3,
-.habilidades .container-habilidades .informacoes:hover ul,
-.habilidades .container-habilidades .informacoes:hover .logo i{
+.habilidades .container-habilidades .categoria-habilidades:hover p,
+.habilidades .container-habilidades .categoria-habilidades:hover h3,
+.habilidades .container-habilidades .categoria-habilidades:hover ul,
+.habilidades .container-habilidades .categoria-habilidades:hover .logos-categoria i{
     color: var(--cor-primaria);
     text-shadow: 2px 2px #000000;
 }
 
-.habilidades .container-habilidades .informacoes:hover p,
-.habilidades .container-habilidades .informacoes:hover ul {
+.habilidades .container-habilidades .categoria-habilidades:hover p,
+.habilidades .container-habilidades .categoria-habilidades:hover ul {
     font-size: 2.2rem;
 }
 
-.habilidades .container-habilidades .informacoes:hover h3 {
+.habilidades .container-habilidades .categoria-habilidades:hover h3 {
     font-size: 4rem;
 }
 
-.habilidades .container-habilidades .informacoes h3 {
+.habilidades .container-habilidades .categoria-habilidades h3 {
     font-size: var(--fonte-extra-grande);
     font-weight: 500;
     margin-bottom: 20px;
     color: var(--cor-primaria);      
 }
 
-.habilidades .container-habilidades .informacoes p {
+.habilidades .container-habilidades .categoria-habilidades p {
     font-size: 1.8rem;
     font-family: var(--fonte-secundaria);
 }
 
-.habilidades .container-habilidades .informacoes .logo i {
+.habilidades .container-habilidades .categoria-habilidades .logos-categoria i {
+    font-size: 4rem;
+}
+
+.habilidades .container-habilidades .categoria-habilidades:hover .logos-categoria i {
     font-size: 8rem;
 }
 
-.habilidades .container-habilidades .informacoes:hover .logo i {
-    font-size: 15rem;
-}
-
-.habilidades .container-habilidades .informacoes li {
+.habilidades .container-habilidades .categoria-habilidades li {
     list-style: inside;
 }
