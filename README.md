@@ -1,5 +1,7 @@
 # Portfólio — Elioenai Gonçalves
 
+🔗 [Acesse o portfólio online](https://elioenai-goncalves.github.io/portfolio/#habilidades)
+
 ## Sobre o projeto
 
 Este é o meu portfólio pessoal, criado para reunir os projetos que desenvolvi durante meus estudos em programação e apresentar minhas habilidades, experiências e formas de contato.
@@ -56,5 +58,3 @@ code .
 ## Contato
 
 - GitHub: [@elioenai-goncalves](https://github.com/elioenai-goncalves)
-
-🔗 [Acesse o portfólio online](https://elioenai-goncalves.github.io/portfolio/#habilidades)

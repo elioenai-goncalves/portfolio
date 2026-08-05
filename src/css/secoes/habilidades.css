@@ -7,7 +7,7 @@
 }
 
 .habilidades .container-habilidades .categoria-habilidades{
-    max-width: auto;
+    max-width: max-content;
     padding: 40px 20px;    
 }
 
@@ -35,7 +35,7 @@
 }
 
 .habilidades .container-habilidades .categoria-habilidades:hover h3 {
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 .habilidades .container-habilidades .categoria-habilidades h3 {
@@ -51,11 +51,11 @@
 }
 
 .habilidades .container-habilidades .categoria-habilidades .logos-categoria i {
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 .habilidades .container-habilidades .categoria-habilidades:hover .logos-categoria i {
-    font-size: 8rem;
+    font-size: 4rem;
 }
 
 .habilidades .container-habilidades .categoria-habilidades li {
